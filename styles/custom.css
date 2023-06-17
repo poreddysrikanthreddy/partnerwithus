@@ -1,0 +1,25 @@
+.input-right-icon i {
+  font-size: 18px;
+  color: #f9bc60;
+  opacity: 1;
+}
+
+.form-control:disabled,
+.form-control[readonly] {
+  background-color: white;
+}
+.pricing-table.active {
+    border: 2px solid #210056;
+    box-shadow: 0px 1px 4px #210056;
+}
+.btn-primary {
+  color: #f9bc60;
+  background-color: #210056;
+  border-color: #210056;
+}
+a {
+  cursor: pointer;
+}
+.checkbox-new {
+  border-radius: 0%!important;
+}
